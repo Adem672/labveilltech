@@ -1,0 +1,14 @@
+{
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/adem672",
+      "image": "images/icons/github.png"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/adem-ahmetovic/",
+      "image": "images/icons/linkedin.png"
+    }
+  ]
+}
