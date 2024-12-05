@@ -3,8 +3,6 @@
 title: TikTok lance « Symphony Creative Studio »
 date: 2024-12-05
 description: "TikTok dévoile un outil d'IA révolutionnaire pour simplifier la création de clips publicitaires et répondre aux besoins des annonceurs." 
-image: images/tiktok_ai_tool.jpeg
-imageAltAttribute: TikTok AI Tool
 tags:
    - publicité
    - intelligence artificielle
@@ -28,9 +26,3 @@ L’objectif principal de Symphony Creative Studio est de rendre la création pu
 Ce lancement s’inscrit dans une tendance plus large où les grands acteurs de la publicité en ligne, comme Google et Meta, investissent massivement dans des outils d’IA générative. Si cette technologie suscite l’enthousiasme pour ses possibilités créatives, elle provoque également des débats sur les droits d’auteur. Getty Images, par exemple, a choisi de collaborer avec des entreprises technologiques pour commercialiser ses contenus sous licence, en réaction aux controverses liées à l’utilisation non auto...
 
 Ce nouvel outil marque une étape importante pour TikTok dans sa volonté d’élargir son offre publicitaire tout en restant à la pointe de l’innovation technologique.
-
----
-
-![TikTok AI Tool](https://source.unsplash.com/random/600x400)
-
-*Pour en savoir plus, consultez l'article original sur [Stratégies](https://www.strategies.fr/actualites/marques/LQ3886935C/tiktok-lance-son-tour-un-outil-d-ia-pour-creer-des-publicites-la-demande.html).*

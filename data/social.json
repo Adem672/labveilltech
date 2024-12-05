@@ -3,12 +3,12 @@
     {
       "name": "github",
       "url": "https://github.com/adem672",
-      "image": "labveilltech/images/github.png"
+      "image": "/labveilltech/images/github.png"
     },
     {
       "name": "linkedin",
       "url": "https://www.linkedin.com/in/adem-ahmetovic/",
-      "image": "labveilltech/images/linkedin.png"
+      "image": "/labveilltech/images/linkedin.png"
     }
   ]
 }
