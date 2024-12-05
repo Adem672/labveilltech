@@ -26,3 +26,7 @@ L’objectif principal de Symphony Creative Studio est de rendre la création pu
 Ce lancement s’inscrit dans une tendance plus large où les grands acteurs de la publicité en ligne, comme Google et Meta, investissent massivement dans des outils d’IA générative. Si cette technologie suscite l’enthousiasme pour ses possibilités créatives, elle provoque également des débats sur les droits d’auteur. Getty Images, par exemple, a choisi de collaborer avec des entreprises technologiques pour commercialiser ses contenus sous licence, en réaction aux controverses liées à l’utilisation non auto...
 
 Ce nouvel outil marque une étape importante pour TikTok dans sa volonté d’élargir son offre publicitaire tout en restant à la pointe de l’innovation technologique.
+
+---
+
+*Pour en savoir plus, consultez l'article original sur [Stratégies](https://www.strategies.fr/actualites/marques/LQ3886935C/tiktok-lance-son-tour-un-outil-d-ia-pour-creer-des-publicites-la-demande.html).*
