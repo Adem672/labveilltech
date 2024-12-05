@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://adem672.github.io/labveilltech/"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
