@@ -38,6 +38,13 @@ Pour simplifier la navigation, le site est structuré en tags :
 7. **SEA**
 8. **Paid Ads**
 9. **Emailing**
+10. **Automation**
+11. **CRM**
+12. **Tendance**
+13. **Analytics**
+14. **Copywriting**
+15. **Stratégie**
+16. **Innovation**
 
 ---
 

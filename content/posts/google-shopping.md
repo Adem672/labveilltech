@@ -1,6 +1,6 @@
 ---
 title: "Avoir un affichage 'Shopping' sur Google gratuitement avec du SEO en 3 étapes"
-date: 2024-12-22
+date: 2024-12-20
 description: "Découvrez comment obtenir un affichage 'shopping' gratuit sur Google grâce à l'optimisation SEO en trois étapes simples, avec l'utilisation de Google Merchant Center et des flux de données."
 tags:
    - SEO

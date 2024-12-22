@@ -1,6 +1,6 @@
 ---
 title: "5 leviers psychologiques pour booster vos publicités"
-date: 2024-12-22
+date: 2024-12-19
 description: "Romain Bouvet, docteur en psychologie sociale et cognitive, a partagé cinq astuces psychologiques simples mais efficaces pour améliorer vos publicités et augmenter leur impact." 
 tags:
    - paid ads
