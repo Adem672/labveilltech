@@ -4,9 +4,10 @@ title: TikTok lance « Symphony Creative Studio »
 date: 2024-12-05
 description: "TikTok dévoile un outil d'IA révolutionnaire pour simplifier la création de clips publicitaires et répondre aux besoins des annonceurs." 
 tags:
-   - publicité
+   - marketing digital
    - intelligence artificielle
-   - TikTok
+   - réseaux sociaux
+   - e-commerce
 ---
 
 ## TikTok lance « Symphony Creative Studio » : l'IA au service de la publicité
