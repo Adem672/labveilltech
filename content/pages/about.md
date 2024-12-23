@@ -27,7 +27,7 @@ Ce site est conçu pour explorer les thématiques du **marketing digital**, de l
 
 ## Taxonomies  
 
-Pour simplifier la navigation, le site est structuré en tags :  
+J'ai divisé mon sujet en plusieurs sous-sujet. Certains sont plus généraux et d'autres plus spécifiques. On peut retrouver certains de ces sujets sous la forme de tags dans les articles:  
 
 1. **Marketing Digital** 
 2. **E-commerce** 
